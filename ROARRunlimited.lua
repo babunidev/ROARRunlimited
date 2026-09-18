@@ -1,5 +1,5 @@
 -- ROARRunlimited v1.1 FIXED
--- Vanilla / Turtle WoW 1.12
+-- Vanilla WoW 1.12
 -- Lua 5.0 safe
 -- SavedVariables: ROEDDB
 -- Author: babunigaming

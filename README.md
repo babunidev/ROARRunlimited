@@ -2,7 +2,7 @@ ROARRunlimited
 
 ROARRunlimited plays battle-themed emotes when you press selected action bar slots.
 Each watched slot can trigger emotes with its own cooldown and chance.
-Designed for Vanilla / Turtle WoW (1.12) and Lua 5.0.
+Designed for Vanilla WoW (1.12) and Lua 5.0.
 
 Slash command: /roed
 Author: babunigaming
@@ -73,6 +73,6 @@ Uses built-in emotes (/roar, /charge, etc.)
 
 Cooldowns are tracked per slot, not globally
 
-Fully compatible with Turtle WoW API behavior
+Uses the Vanilla 1.12 API and Lua 5.0
 
 ROARRunlimited turns your action bar into a war drum.
