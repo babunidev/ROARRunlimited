@@ -5,7 +5,7 @@ Each watched slot can trigger emotes with its own cooldown and chance.
 Designed for Vanilla WoW (1.12) and Lua 5.0.
 
 Slash command: /roed
-Author: babunigaming
+**Author:** Babuni.dev
 
 Features
 
