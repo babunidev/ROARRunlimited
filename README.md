@@ -76,3 +76,11 @@ Cooldowns are tracked per slot, not globally
 Uses the Vanilla 1.12 API and Lua 5.0
 
 ROARRunlimited turns your action bar into a war drum.
+
+## Development documentation
+
+- [Concept](CONCEPT.md) · [Roadmap](ROADMAP.md) · [Changelog](CHANGELOG.md)
+- [Architecture](docs/ARCHITECTURE.md) · [Design evidence](docs/DECISIONS.md) · [Development journal](docs/DEVLOG.md)
+- [AI collaborator rules](AGENTS.md)
+
+The development journal distinguishes original author direction, source-based reconstruction, AI assistance, and independently verified behavior.
